@@ -1,0 +1,20 @@
+.heading-text {
+	margin: 50px 0;
+	text-transform: uppercase;
+}
+
+.form-group {
+	margin-bottom: 30px;
+}
+
+.form-group input {
+	box-shadow: #007bff 2px 2px 7px 1px;
+} 
+
+.button-fetch {
+	justify-content: center;
+}
+
+.btn {
+	width: 15vw;
+}
